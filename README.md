@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-parmar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-k-parmar/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yaash_parmarr)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yash.parmar.701478)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmaryash201@gmail.com)
@@ -90,10 +90,10 @@
 
 <div align="center">
 
-| Package | Status | Description |
+| Package | Version | Description |
 | :--- | :---: | :--- |
-| [`query-cache-engine`](https://www.npmjs.com/package/query-cache-engine) | ![NPM Version](https://img.shields.io/npm/v/query-cache-engine?color=cb3837&style=flat-square) | High-performance in-memory caching engine optimized for database queries. |
-| [`express-response-engine`](https://www.npmjs.com/package/express-response-engine) | ![NPM Version](https://img.shields.io/npm/v/express-response-engine?color=cb3837&style=flat-square) | Standardized API response formatter & middleware handler for Express.js. |
+| [`query-cache-engine`](https://www.npmjs.com/package/query-cache-engine) | [![NPM Version](https://img.shields.io/npm/v/query-cache-engine?color=cb3837&style=flat-square)](https://www.npmjs.com/package/query-cache-engine) | High-performance in-memory caching engine optimized for database queries. |
+| [`express-response-engine`](https://www.npmjs.com/package/express-response-engine) | [![NPM Version](https://img.shields.io/npm/v/express-response-engine?color=cb3837&style=flat-square)](https://www.npmjs.com/package/express-response-engine) | Standardized API response formatter & middleware handler for Express.js. |
 
 </div>
 
@@ -102,20 +102,24 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yash-201&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-201&theme=tokyonight" width="100%" alt="Yash's Profile Summary" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-201&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yash-201&theme=tokyonight" width="49%" alt="Top Commit Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-201&theme=tokyonight" width="49%" alt="GitHub Detailed Stats" />
+
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yash-201&label=Profile%20Views&icon=5&pretty=true" />
+  <a href="https://github.com/yash-201">
+    <img src="https://visitcount.itsvg.in/api?id=yash-201&label=Profile%20Views&icon=5&pretty=true" alt="Profile Views" />
   </a>
 </div>
